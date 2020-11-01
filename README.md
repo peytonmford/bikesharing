@@ -46,4 +46,6 @@ The user types with the most bike rides are male subscribers. In Des Moines, if 
 
 ###### Figure 7
 ![UserTypesBikeCount](Pictures/UserTypesBikeCount.png)
+
 ## Summary
+In summary, if we can put the bike stations in tourist areas and near hotels in Des Moines, we can the have best opportunity of having a successful bike sharing service. For the bikes who need maintance, we would need to commit it during the non-peak hours of later at night.
