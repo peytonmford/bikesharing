@@ -17,4 +17,26 @@ In NYC, these are the top ending locations for the CitiBikes. These locations co
 ###### Figure 2
 ![TopEndingLocations](Pictures/TopEndingLocations.png)
 
+### Peak Checkout Hours
+In figure 3, we can see the peak checkout hours of the bikes in New York. The peak checkout hours are at 5 PM, which is the end of the work day so it makes sense that the bikes are used the most after work, so if we can do maintance to the bikes before or after 5 PM, that would be the most optimal time of the day.
+
+###### Figure 3
+![PeakHours](Pictures/PeakHours.png)
+
+### Peak Checkout Hours for Genders
+In figure 4, we can see that the male population of the data checks out the most bikes at 5PM after work. Again, if we do maintance at night, we can optimaze bike checkouts. 
+
+###### Figure 4
+![GenderPeakHours](Pictures/GenderPeakHours.png)
+
+### Trips by Weekdays
+As we can see in figure 5, Thursday's at 6 PM are the most popular times to end the ride of bikes. If we can have the bikes in optimal condition before 5, again we optimize sales and checkout. 
+
+###### Figure 5
+![StopTime](Pictures/StopTime.png)
+
+### Trips by Weekdays by Gender
+
+###### Figure 6
+![PeakHoursGender](Pictures/PeakHoursGender.png)
 ## Summary
