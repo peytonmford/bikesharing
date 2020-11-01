@@ -36,7 +36,14 @@ As we can see in figure 5, Thursday's at 6 PM are the most popular times to end 
 ![StopTime](Pictures/StopTime.png)
 
 ### Trips by Weekdays by Gender
+There's a trend of male users having the most bike trips. It makes sense that they have the most checkout times. 
 
 ###### Figure 6
 ![PeakHoursGender](Pictures/PeakHoursGender.png)
+
+### User Types
+The user types with the most bike rides are male subscribers. In Des Moines, if we can advertise a deal for being subscriber, I believe we can optimize sales.
+
+###### Figure 7
+![UserTypesBikeCount](Pictures/UserTypesBikeCount.png)
 ## Summary
