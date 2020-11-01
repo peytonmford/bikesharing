@@ -7,6 +7,6 @@ The purpose of this analysis is to show the data of CitiBike in New York City an
 
 ## Results
 ### Top Starting Locations
-![After_District](Resources/After_District.png)
+![TopStartingLocations](Pictures/TopStartingLocations.png)
 
 ## Summary
